@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu estou cursando Sistemas da Informação.
-- 🌱 Futura desenvolvedora front-end.
+- 🌱 Desenvolvedora front-end.
 - 😄 Pronouns: ela/dela.
 
 <div align="center">
